@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu universo LOZ!
 
-Oi, eu sou **Lord Otaku Zhai Dev**,
+Oi, eu sou **Lord Otaku Zhái Dev**,
 
 Sou desenvolvedor apaixonado por tecnologia, robótica, inteligência artificial e cultura geek.  
 Este é o meu espaço para compartilhar projetos, ideias e inovação.
